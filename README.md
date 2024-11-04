@@ -158,5 +158,8 @@ public class PegawaiBeraksi {
 
 ~~~
 
+## Output
+
+![](Output5_1.png)
 
 <p></p>
