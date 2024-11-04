@@ -158,14 +158,14 @@ public class PegawaiBeraksi {
 
 ~~~
 
-## Output
+# Output
 
 ![](Output5_1.png)
 
 
 # Sistem pembelian online
 
-# class Produk
+## class Produk
 
 ~~~
 package marketzz;
@@ -208,7 +208,7 @@ public class Produk {
 
 ~~~
 
-# SubClass Elektronik
+## SubClass Elektronik
 
 ~~~
 
@@ -231,7 +231,7 @@ public class Elektronik extends Produk {
 
 ~~~
 
-# SubClass Pakaian
+## SubClass Pakaian
 
 ~~~
 
@@ -282,7 +282,7 @@ public class Makanan extends Produk {
 
 ~~~
 
-# Class KeranjangBelanja
+## Class KeranjangBelanja
 
 ~~~
 
@@ -329,7 +329,7 @@ public class KeranjangBelanja {
 
 ~~~
 
-# Class Main
+## Class Main
 
 ~~~
 
